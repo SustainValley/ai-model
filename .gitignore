@@ -1,0 +1,6 @@
+*.pem
+anaconda3/
+node_modules/
+*.hprof
+tempCodeRunnerFile.py
+
