@@ -1,0 +1,6 @@
+cafe_id,name,location,max_seats,noise_levels,seat_fee,max_shared_seats
+3db3b9c5-8b7c-46aa-bb3c-46c67240579a,아너카페,서울 노원구 동일로192다길 9,60,low,8000,4
+52837d0f-3c13-4517-8189-8332a79debda,블루마일스커피로스터즈,서울 노원구 동일로190길 65 2층,20,high,7000,8
+57fcffae-e4de-4c42-8b3b-c198cb813cb8,카페 오어낫,서울 노원구 동일로184길 69-9 1층,15,medium,3000,4
+f0a306ca-ced1-475a-ba65-5163e76ebb01,무이로 커피,서울 노원구 동일로186길 77-7 1층,18,high,4000,4
+c78c800a-7d39-40d6-aa30-7759ff99fc7a,오르름,서울 노원구 노원로1길 121 1층,28,low,4000,8
